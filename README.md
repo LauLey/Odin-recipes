@@ -3,3 +3,5 @@
 Este es mi primer proyecto en The Odin Project que tiene como objetivo el uso y práctica de html.
 El objetivo es realizar un recetario, para esto compartire algunas de mis recetas saludables favoritas, para cumplir con mi objetivo de aprendizaje pero también compartir opciones sanas para disfrutar. Todas las imágenes utilizadas son tomadas por mi. El enlace al sitio publicado es https://github.com/LauLey/Odin-recipes 
 Laura Leyva
+20/12/2025
+Comencé a agregar estilos básicos a este recetario para poner en práctica mis conocimientos en CSS.
